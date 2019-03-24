@@ -2,4 +2,4 @@
 
 Hi people!
 
-This is my second and hopefully will be the last Github account. Hope I can contributite something in the near future.
+This is my second and hopefully will be the last Github account. Will start everything from CS50...and to be continued.
